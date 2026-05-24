@@ -9,4 +9,4 @@ resources:
 images:
 - name: qnprk/hello-app
   newName: qnprk/hello-app
-  newTag: fea94b1
+  newTag: 46b7367
